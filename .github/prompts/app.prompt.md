@@ -11,4 +11,4 @@ The repository structure includes both a backend built with Node.js and Express,
 
 3. **Frontend Directory (`/frontend`)**
 
-Please ensure the project adheres to best practices for code organization, input validation, error handling, and includes comments to explain the code."
+It's not your job include content in backend and frontend folders.
