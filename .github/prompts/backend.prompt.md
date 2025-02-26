@@ -11,3 +11,7 @@ Your goal is gemerate a backend using Node.jsand Express that adheres to RESTful
 - Include comments to explain the code.
 
 - Provide basic documentation on how to run the project and use the API endpoints.
+
+- Don't forget to install all dependencies you need
+
+- Do not include views as part of the project. The frontend will be in a different project
