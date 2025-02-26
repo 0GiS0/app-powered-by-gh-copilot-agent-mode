@@ -15,3 +15,7 @@ Your goal is gemerate a backend using Node.jsand Express that adheres to RESTful
 - Don't forget to install all dependencies you need
 
 - Do not include views as part of the project. The frontend will be in a different project
+
+- Add a `client.http` file with the CRUD operations using REST Client extension
+
+- Don't forget to include the .gitignore for a Node.js app
