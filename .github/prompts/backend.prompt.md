@@ -2,6 +2,8 @@ Your goal is gemerate a backend using Node.jsand Express that adheres to RESTful
 
 - The database is MongoDb.
 
+- It should listen using the port 4000
+
 - Use ES6+ syntax (e.g., arrow functions, async/await).
 
 - Structure the project with a clear separation of concerns (e.g., controllers, services, models).
