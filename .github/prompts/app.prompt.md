@@ -4,8 +4,7 @@ Create a repository structure that includes both a backend built with Node.js an
     - `README.md`: A comprehensive readme file with detailed instructions on how to set up and run the project.
     - `.gitignore`: A `.gitignore` file to exclude unnecessary files from the repository.
     - `catalog-info.yaml`: A Backstage configuration file for cataloging the project.
-    - `docs/`: A directory containing documentation specific to the Backstage setup.
-    - `.devcontainer/devcontainer.json`: A Dev Container configuration file to ensure the project can be run seamlessly in a development container environment.
+    - `docs/`: A directory containing documentation specific to the Backstage setup.    
 
 2. **Backend Directory (`/backend`)**:
     - This directory will house the backend code built with Node.js and Express.
