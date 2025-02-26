@@ -6,10 +6,6 @@ Your goal is generate a frontend using React that adheres to best practices for 
 
 - Structure the project with a clear folder hierarchy (e.g., components, services, utils).
 
-- Use a component library for UI elements (e.g., Material-UI, Ant Design).
-
-- Ensure responsive design and accessibility compliance.
-
 - Include comments to explain the code.
 
 - Provide basic documentation on how to run the project and use the components.
