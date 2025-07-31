@@ -1,3 +1,5 @@
+*Read this in other languages: [English](README_EN.md), [Español](README.md)*
+
 # 🚀 Crear una aplicación con Node.js, Express y React usando GitHub Copilot Edits Agent Mode 🤖
 
 ¡Hola developer 👋🏻! Este repo es el que utilicé en mi vídeo [🚀 Crear una aplicación con Node.js, Express y React usando GitHub Copilot Edits Agent Mode 🤖](https://youtu.be/cSxkYIXYXKY) el cual contiene una serie de prompts que permiten a GitHub Copilot Agent mode saber cuáles son mis preferencias a la hora de crear una aplicación.
